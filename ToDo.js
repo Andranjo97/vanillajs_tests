@@ -1,5 +1,4 @@
 class ToDo {
-  //add comment
   constructor() {
     this.todo = [];
   }
